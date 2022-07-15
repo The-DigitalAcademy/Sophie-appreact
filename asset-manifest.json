@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Sophie-appreact/static/css/main.7a6cdcfe.css",
+    "main.js": "/Sophie-appreact/static/js/main.e35f3a9d.js",
+    "static/js/787.074d24d3.chunk.js": "/Sophie-appreact/static/js/787.074d24d3.chunk.js",
+    "index.html": "/Sophie-appreact/index.html",
+    "main.7a6cdcfe.css.map": "/Sophie-appreact/static/css/main.7a6cdcfe.css.map",
+    "main.e35f3a9d.js.map": "/Sophie-appreact/static/js/main.e35f3a9d.js.map",
+    "787.074d24d3.chunk.js.map": "/Sophie-appreact/static/js/787.074d24d3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a6cdcfe.css",
+    "static/js/main.e35f3a9d.js"
+  ]
+}
